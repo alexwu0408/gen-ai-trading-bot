@@ -7,7 +7,7 @@ import tracemalloc
 import time
 
 
-OPENAI_API_KEY = "sk-proj-Okx79JPwgK5UCrI3CEZxT3BlbkFJOMsnKUCEZXIjbBuNEgJv"
+OPENAI_API_KEY = "YOUR_API_KEY"
 openai.api_key = OPENAI_API_KEY
 
 llm_config = {
